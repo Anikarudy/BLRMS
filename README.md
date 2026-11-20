@@ -21,6 +21,10 @@ https://github.com/Anikarudy/BLRMS/raw/main/docs/BLRMS_Demo.mp4
 
 [▶ Watch the demo video](docs/BLRMS_Demo.mp4) (about 4½ minutes, no audio). It walks through the full flow: sign-up and login, listing land as a seller, paying the survey fee, surveyor approval, browsing the marketplace and buying land with a crypto wallet.
 
+
+https://github.com/user-attachments/assets/334446e5-9297-4348-8cdd-2f947822893d
+
+
 > In the demo, the MetaMask wallet and the blockchain responses are simulated. All other screens are the real app running locally against its Express + MongoDB backend.
 
 ## Problem Statement & Key Objectives:
